@@ -1,6 +1,6 @@
 # About me
 
-Hellow, I'm Cyd and I’m an award winning creative developer with over 5 years experience, based in Amsterdam, the Netherlands.
+Hello, I'm Cyd and I’m an award winning creative developer with over 5 years experience, based in Amsterdam, the Netherlands.
 
 I turn designs into rich experiences.
 
