@@ -1,11 +1,8 @@
-# I’m Cyd,
+# About me
 
-**A freelance frontend developer from Amsterdam.**
+Hellow, I'm Cyd and I’m an award winning creative developer with over 5 years experience, based in Amsterdam, the Netherlands.
 
-I write Vue, semantic HTML & SCSS, PHP, and occasionally an article on [dev.to](https://dev.to/cydstumpel)
+I turn designs into rich experiences.
 
 ## My portfolio:
 [cydstumpel.nl](https://cydstumpel.nl/)
-
-## Current projects:
-[The Ray Charles Video Museum](https://raycharles.cydstumpel.nl/)
